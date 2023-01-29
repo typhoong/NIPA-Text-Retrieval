@@ -7,3 +7,4 @@ Project to discover and support promising companies through AI competitions run 
 <img width="1433" alt="NIPA_banner" src="https://user-images.githubusercontent.com/89120612/215302276-b291df82-5dd6-4d41-b974-adb3cac2ebc7.png">
 
 ### Task Overview
+<img width="800" alt="Image_Retrieval" src="https://user-images.githubusercontent.com/89120612/215303602-35e809fe-4e3b-4b4b-ac95-101a204ac1e9.png">
