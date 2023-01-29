@@ -2,9 +2,7 @@
 2022_NIPA task06 text retrieval
 columns : 'question_id', 'paragraph_id', 'public'
 Mean Reciprocal Rank (ln 14: k)
-nyeongmin Lee 220517
 '''
-
 
 
 import sys
